@@ -1,0 +1,16 @@
+Fast insertion and deletion
+but bad in find or search 
+
+The list is a doubly-linked list implementation provided by the C++ Standard Template Library (STL).
+ 
+ A linked list is a data structure where elements are stored in nodes, and each node points to the next and, in the case of a doubly-linked list, also to the previous node in the sequence.
+
+
+Doubly-Linked Structure:
+Each element in the list is represented by a node that contains the data and two pointers: one pointing to the next node and another pointing to the previous node.
+This doubly-linked structure allows for efficient insertion and removal of elements at both the beginning and end of the list, as well as in the middle.
+
+
+No Random Access:
+
+Unlike arrays or vectors, std::list does not provide direct random access to elements using an index. Accessing elements requires traversing the list from the beginning or end.

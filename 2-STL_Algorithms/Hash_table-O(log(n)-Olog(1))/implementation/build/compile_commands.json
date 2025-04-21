@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/Users/ahmedabdelaziz/MyBrain/SW/GitRepo/cpp/2-STL_Algorithms/Hash_table/build",
+  "command": "/usr/bin/clang++ -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -std=gnu++17 -o CMakeFiles/hash_tables.dir/hash_table_1.cpp.o -c /Users/ahmedabdelaziz/MyBrain/SW/GitRepo/cpp/2-STL_Algorithms/Hash_table/hash_table_1.cpp",
+  "file": "/Users/ahmedabdelaziz/MyBrain/SW/GitRepo/cpp/2-STL_Algorithms/Hash_table/hash_table_1.cpp"
+}
+]

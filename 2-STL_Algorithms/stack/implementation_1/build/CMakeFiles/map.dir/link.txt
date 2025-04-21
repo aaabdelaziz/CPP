@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/map.dir/main.cpp.o CMakeFiles/map.dir/Stack.cpp.o -o map 

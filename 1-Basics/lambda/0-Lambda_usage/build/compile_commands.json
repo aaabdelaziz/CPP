@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/Users/ahmedabdelaziz/MyBrain/SW/GitRepo/cpp/1-Basics/lambda/0-Lambda_usage/build",
+  "command": "/usr/bin/clang++ -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -std=gnu++17 -o CMakeFiles/lambda_essentials.dir/lambda_usage.cpp.o -c /Users/ahmedabdelaziz/MyBrain/SW/GitRepo/cpp/1-Basics/lambda/0-Lambda_usage/lambda_usage.cpp",
+  "file": "/Users/ahmedabdelaziz/MyBrain/SW/GitRepo/cpp/1-Basics/lambda/0-Lambda_usage/lambda_usage.cpp"
+}
+]

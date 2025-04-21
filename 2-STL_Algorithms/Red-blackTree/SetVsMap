@@ -1,0 +1,45 @@
+https://www.geeksforgeeks.org/set-vs-map-c-stl/
+
+set vs map in C++ STL
+======================
+
+set and map in STL are similar in the sense that they both use Red Black Tree (A self balancing BST). Note that the time complexities of search, insert and delete are O(Log n). 
+
+Differences: 
+------------
+The difference is
+* set is used to store only keys while map is used to store key value pairs. 
+* For example consider in the problem of printing sorted distinct elements, we use set as there is value needed for a key. 
+While if we change the problem to print frequencies of distinct sorted elements, we use map. We need map to store array values as key and frequencies as value.
+
+
+
+Example (SetVsMap.cpp)
+----------------------
+Explanation:
+
+std::set:
+
+A std::set is an ordered collection of unique elements.
+Elements are automatically sorted in ascending order.
+Duplicate elements are ignored.
+std::map:
+
+A std::map is an associative container that stores key-value pairs.
+Elements are sorted by their keys.
+Each key must be unique, and the associated value can be updated.
+In the examples above:
+
+Example 1 uses std::set to store a collection of integers. The elements are automatically sorted, and duplicate elements are ignored.
+
+Example 2 uses std::map to store key-value pairs, where the key is an integer and the value is a string. Keys are automatically sorted, and you can update the value associated with a key.
+
+In summary, std::set is useful when you need a collection of unique elements sorted in a specific order, while std::map is suitable for maintaining a collection of key-value pairs with sorted keys. The choice between them depends on the requirements of your specific use case.
+
+
+* set methods and Big O
+
+
+set.insert(3)    // O(log(n))
+set.erase()      // O(n)   Destroys the set, freeing memory allocated by hcreate.
+set.find(4)      // O()

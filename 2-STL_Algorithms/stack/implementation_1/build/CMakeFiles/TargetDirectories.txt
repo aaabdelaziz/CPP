@@ -1,0 +1,3 @@
+/Users/ahmedabdelaziz/MyBrain/SW/GitRepo/cpp/2-STL_Algorithms/stack/implementation_1/build/CMakeFiles/map.dir
+/Users/ahmedabdelaziz/MyBrain/SW/GitRepo/cpp/2-STL_Algorithms/stack/implementation_1/build/CMakeFiles/edit_cache.dir
+/Users/ahmedabdelaziz/MyBrain/SW/GitRepo/cpp/2-STL_Algorithms/stack/implementation_1/build/CMakeFiles/rebuild_cache.dir

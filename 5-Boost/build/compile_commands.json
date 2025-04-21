@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/Users/ahmedabdelaziz/MyBrain/SW/GitRepo/cpp/5-Boost/build",
+  "command": "/usr/bin/clang++ -isystem /Users/ahmedabdelaziz/MyBrain/SW/vcpkg/vcpkg/installed/x64-osx/include -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -std=gnu++11 -o CMakeFiles/HelloWorld.dir/lexical_cast.cpp.o -c /Users/ahmedabdelaziz/MyBrain/SW/GitRepo/cpp/5-Boost/lexical_cast.cpp",
+  "file": "/Users/ahmedabdelaziz/MyBrain/SW/GitRepo/cpp/5-Boost/lexical_cast.cpp"
+}
+]

@@ -1,0 +1,12 @@
+@startuml
+
+class CircularBuffer {
+    m_head: uint_32_t
+    m_tail: uint_32_t
+    m_currentsize: uint_32_t
+    m_container:std::array<T,totalsize>
+
+    push_back()
+}
+
+@enduml

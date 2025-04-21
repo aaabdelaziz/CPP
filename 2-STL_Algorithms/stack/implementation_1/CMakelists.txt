@@ -1,0 +1,19 @@
+# in termial $ cmake --version to know the minimum version
+cmake_minimum_required(VERSION 3.10)
+project(map)
+message(${PROJECT_NAME})
+
+# set src_variable
+set(SRC_FILES
+    main.cpp
+    Stack.cpp
+)
+
+set(HDR_FILES
+    main.cpp
+    Stack.cpp
+)
+
+add_executable(${PROJECT_NAME} ${SRC_FILES})
+# Set C++ standard to C++17
+target_compile_features(${PROJECT_NAME} PUBLIC cxx_std_17)

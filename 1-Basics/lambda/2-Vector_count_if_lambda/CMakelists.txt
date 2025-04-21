@@ -1,0 +1,13 @@
+cmake_minimum_required(VERSION 3.10)
+
+project(hash_tables)
+message("project name is " ${PROJECT_NAME})
+
+# Set variable that carry all source files paths
+set(SRC_FILES
+    lambda_0.cpp)
+
+add_executable(${PROJECT_NAME} ${SRC_FILES})
+
+# Set C++ standard to C++17
+target_compile_features(${PROJECT_NAME} PUBLIC cxx_std_17)

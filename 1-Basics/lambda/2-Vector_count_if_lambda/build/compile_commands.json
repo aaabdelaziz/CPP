@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/Users/ahmedabdelaziz/MyBrain/SW/GitRepo/cpp/1-Basics/lambda/2-Vector_count_if_lambda/build",
+  "command": "/usr/bin/clang++ -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -std=gnu++17 -o CMakeFiles/hash_tables.dir/lambda_0.cpp.o -c /Users/ahmedabdelaziz/MyBrain/SW/GitRepo/cpp/1-Basics/lambda/2-Vector_count_if_lambda/lambda_0.cpp",
+  "file": "/Users/ahmedabdelaziz/MyBrain/SW/GitRepo/cpp/1-Basics/lambda/2-Vector_count_if_lambda/lambda_0.cpp"
+}
+]

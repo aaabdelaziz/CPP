@@ -1,0 +1,3 @@
+/Users/ahmedabdelaziz/MyBrain/SW/GitRepo/cpp/5-Boost/build/CMakeFiles/HelloWorld.dir
+/Users/ahmedabdelaziz/MyBrain/SW/GitRepo/cpp/5-Boost/build/CMakeFiles/edit_cache.dir
+/Users/ahmedabdelaziz/MyBrain/SW/GitRepo/cpp/5-Boost/build/CMakeFiles/rebuild_cache.dir

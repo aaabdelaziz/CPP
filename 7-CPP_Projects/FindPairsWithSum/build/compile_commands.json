@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/Users/ahmedabdelaziz/MyBrain/SW/GitRepo/cpp/7-CPP_Projects/FindPairsWithSum/build",
+  "command": "/usr/bin/clang++ -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -std=gnu++11 -o CMakeFiles/pairs_sum.dir/pairs_with_sum.cpp.o -c /Users/ahmedabdelaziz/MyBrain/SW/GitRepo/cpp/7-CPP_Projects/FindPairsWithSum/pairs_with_sum.cpp",
+  "file": "/Users/ahmedabdelaziz/MyBrain/SW/GitRepo/cpp/7-CPP_Projects/FindPairsWithSum/pairs_with_sum.cpp"
+}
+]
