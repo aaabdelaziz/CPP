@@ -1,6 +1,0 @@
-# ninja log v5
-3	790	1705863607925789466	CMakeFiles/pairs_sum.dir/pairs_with_sum.cpp.o	65ba3a6944a96a25
-791	873	1705863608013259623	pairs_sum	547c68301730e5b0
-3	869	1705864361419728239	CMakeFiles/pairs_sum.dir/pairs_with_sum.cpp.o	65ba3a6944a96a25
-869	958	1705864361512161856	pairs_sum	547c68301730e5b0
-3	686	1705864374508695155	CMakeFiles/pairs_sum.dir/pairs_with_sum.cpp.o	65ba3a6944a96a25

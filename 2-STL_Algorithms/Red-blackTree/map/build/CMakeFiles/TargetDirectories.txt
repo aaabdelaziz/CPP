@@ -1,3 +1,0 @@
-/Users/ahmedabdelaziz/MyBrain/SW/GitRepo/cpp/2-STL_Algorithms/Red-blackTree/map/build/CMakeFiles/map.dir
-/Users/ahmedabdelaziz/MyBrain/SW/GitRepo/cpp/2-STL_Algorithms/Red-blackTree/map/build/CMakeFiles/edit_cache.dir
-/Users/ahmedabdelaziz/MyBrain/SW/GitRepo/cpp/2-STL_Algorithms/Red-blackTree/map/build/CMakeFiles/rebuild_cache.dir
