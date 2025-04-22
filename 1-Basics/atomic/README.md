@@ -5,6 +5,7 @@
 - It provides atomic types and operations that ensure safe access to variables, preventing data races and potential issues in multithreaded code.
 - Concurrent data access is regulated by a memory model for which the behavior is well-defined if one thread tries to access the data that another thread is currently accessing.
 - The <atomic> header provides some functions to perform these atomic operations.
+- Resources (https://www.geeksforgeeks.org/cpp-11-atomic-header/)
 
 ```
 -------------------------------------------------------------------------------------------------------------------------------------------------

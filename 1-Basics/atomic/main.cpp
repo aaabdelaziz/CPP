@@ -13,7 +13,7 @@ using namespace std;
 
 
 #ifdef EXAMPLE_1
-// To illustrate Atomic integer
+// To illustrate Atomic counter increament
 
 // Create atomic counter
 atomic<int> counter(0); 
@@ -28,6 +28,7 @@ void increment_counter(int id)
 
 int main()
 {
+    // Every thread will increase the counter 100k times
     thread t1(increment_counter, 1);
     thread t2(increment_counter, 2);
 
