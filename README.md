@@ -16,6 +16,7 @@ Welcome to my C++ Code Repository! This repository serves as a personal referenc
 
 The repository currently covers code examples related to C++11 and C++17. 
 Each example is designed to be comprehensible and illustrative, enabling learners to grasp and apply the concepts effectively.
+
 The repository is not professionally complete yet; So, I keep updating it from time to time.
 
 ## Getting Started
