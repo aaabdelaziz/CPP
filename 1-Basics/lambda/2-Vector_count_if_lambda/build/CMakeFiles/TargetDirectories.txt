@@ -1,3 +1,0 @@
-/Users/ahmedabdelaziz/MyBrain/SW/GitRepo/cpp/1-Basics/lambda/2-Vector_count_if_lambda/build/CMakeFiles/hash_tables.dir
-/Users/ahmedabdelaziz/MyBrain/SW/GitRepo/cpp/1-Basics/lambda/2-Vector_count_if_lambda/build/CMakeFiles/edit_cache.dir
-/Users/ahmedabdelaziz/MyBrain/SW/GitRepo/cpp/1-Basics/lambda/2-Vector_count_if_lambda/build/CMakeFiles/rebuild_cache.dir

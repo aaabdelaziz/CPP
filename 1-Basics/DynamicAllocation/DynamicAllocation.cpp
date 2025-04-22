@@ -70,7 +70,7 @@ int main() {
 
 	/*if enough memory is not available in the heap to allocate,
 	 *  the new request indicates failure by throwing an exception of type std::bad_alloc,
-	 *   unless “nothrow” is used with the new operator, in which case it returns a NULL pointer*/
+	 *   unless ï¿½nothrowï¿½ is used with the new operator, in which case it returns a NULL pointer*/
 	int *h = new(nothrow) int;  // to return nullptr instead of bad alloc
 	if (!h)
 	{
@@ -124,7 +124,5 @@ int main() {
 	// freed the block of allocated memory
 	delete[] q;
 
-
-	cout << "!!!Hello World!!!" << endl; // prints !!!Hello World!!!
 	return 0;
 }

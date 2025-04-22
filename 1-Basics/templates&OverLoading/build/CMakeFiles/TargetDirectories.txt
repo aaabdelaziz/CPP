@@ -1,2 +1,0 @@
-/Users/ahmedabdelaziz/MyBrain/SW/GitRepo/cpp/1-Basics/templates/build/CMakeFiles/edit_cache.dir
-/Users/ahmedabdelaziz/MyBrain/SW/GitRepo/cpp/1-Basics/templates/build/CMakeFiles/rebuild_cache.dir
