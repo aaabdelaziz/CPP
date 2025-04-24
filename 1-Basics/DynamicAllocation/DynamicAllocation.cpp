@@ -2,39 +2,8 @@
 #include <iostream>
 using namespace std;
 
-int main() {
-
-	/* C uses malloc() and calloc() function to allocate memory dynamically at run time
-	 *  and uses free() function to free dynamically allocated memory.
-	 *  C++ supports these functions and also has two operators new and
-	 *  delete that perform the task of allocating and freeing the memory in a better and easier way.*/
-
-	/*The new operator denotes a request for memory allocation on the Heap.
-	 * If sufficient memory is available, new operator initializes the memory and returns
-	 * the address of the newly allocated and initialized memory to the pointer variable.
-	 * */
-
-	/*
-	 * Difference between malloc in C and New in C++, is that
-	 * https://www.includehelp.com/cpp-tutorial/difference-between-new-and-malloc.aspx
-	 *
-	 * malloc() is a library function of stdlib.h and it was used in C language
-	 * to allocate memory for N blocks at run time, it can also be used in C++
-	 * programming language.
-	 * Whenever a program needs memory to declare at run time we can use this
-	 * function.
-	 *
-	 *  new--> new is an operator in C++ programming language,
-	 *  it is also used to declare memory for N blocks at run time.
-	 *  Both are used for same purpose, but still they have some differences,
-	 *  the differences are:
-	 *  new is an operator whereas malloc() is a library function.
-	 *  new allocates memory and calls constructor for object initialization.
-	 *  But malloc() allocates memory and does not call constructor.
-	 *  Return type of new is exact data type while malloc() returns void*.
-	 *  new is faster than malloc() because an operator is always faster than
-	 *  a function.
-	 * */
+int main() 
+{
 
     cout<<"Start Example"<<endl;
 	// 1-Pointer initialization to null
