@@ -1,10 +1,4 @@
-//============================================================================
-// Name        : map.cpp
-// Author      :
-// Version     :
-// Copyright   : Your copyright notice
-// Description : Hello World in C++, Ansi-style
-//============================================================================
+
 // CPP program to demonstrate working of map
 #include <iostream>
 #include <map>

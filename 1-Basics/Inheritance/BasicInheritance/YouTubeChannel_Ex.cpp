@@ -1,10 +1,4 @@
-//============================================================================
-// Name        : Inheritance.cpp
-// Author      : 
-// Version     :
-// Copyright   : Your copyright notice
-// Description : Hello World in C++, Ansi-style
-//============================================================================
+
 //https://www.youtube.com/watch?v=-W-TYjL0aFE
 
 #include <iostream>
