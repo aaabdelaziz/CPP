@@ -1,5 +1,6 @@
-// https://www.geeksforgeeks.org/cpp-11-atomic-header/
 // C++ Program to illustrate the usage of <atomic> Header
+// https://www.geeksforgeeks.org/cpp-11-atomic-header/
+
 #include <atomic>
 #include <iostream>
 #include <thread>
